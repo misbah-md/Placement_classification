@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sriniketh-bobbili/student-placement-classification.git
+git clone https://github.com/misbah Hussain /student-placement-classification.git
 cd student-placement-classification
